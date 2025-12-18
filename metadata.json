@@ -1,0 +1,5 @@
+{
+  "name": "Corner AI",
+  "description": "A modular UFC/MMA fight-analysis system powered by Gemini 3.0 Flash. Upload fight clips, stats, or notes to generate round-by-round scoring and technical breakdowns.",
+  "requestFramePermissions": []
+}
